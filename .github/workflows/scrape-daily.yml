@@ -1,0 +1,52 @@
+name: Daily Hytale Server Scrape
+
+on:
+  schedule:
+    # Run every day at 12:00 UTC
+    - cron: '0 12 * * *'
+  # Allow manual trigger
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4
+
+      - name: Run scraper
+        run: python scraper.py
+
+      - name: Configure git
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+
+      - name: Commit and push changes
+        run: |
+          if git diff --quiet; then
+            echo "No changes detected"
+          else
+            git add data/servers.json
+            git commit -m "Update server data - $(date +'%Y-%m-%d %H:%M:%S')"
+            git push
+          fi
+
+      - name: Create workflow status
+        run: echo "✅ Daily scrape completed at $(date +'%Y-%m-%d %H:%M:%S UTC')"
