@@ -4,7 +4,12 @@
       "id": 1,
       "name": "Hytale Box",
       "description": "Fully customized Spanish-speaking server with unique world, special progression, custom systems and active community.",
-      "types": ["Vanilla", "Modded", "MMORPG", "MiniGames"],
+      "types": [
+        "Vanilla",
+        "Modded",
+        "MMORPG",
+        "MiniGames"
+      ],
       "ip": "play.hytale-box.com",
       "region": "Spain",
       "lastUpdated": "2026-01-08"
@@ -13,7 +18,12 @@
       "id": 2,
       "name": "Hylanders",
       "description": "Bridge between classic Minecraft and Hytale. Ultimate meeting point for block lovers and adventure seekers.",
-      "types": ["Vanilla", "Roleplay", "Modded", "SMP"],
+      "types": [
+        "Vanilla",
+        "Roleplay",
+        "Modded",
+        "SMP"
+      ],
       "ip": "play.hylanders.net",
       "region": "United States",
       "lastUpdated": "2026-01-08"
@@ -22,7 +32,10 @@
       "id": 3,
       "name": "DreamTale Vanilla",
       "description": "Vanilla server with chill and experienced staff team. 5+ years experience providing quality gameplay.",
-      "types": ["Vanilla", "SMP"],
+      "types": [
+        "Vanilla",
+        "SMP"
+      ],
       "ip": "play.dreamtale.net",
       "region": "United States",
       "lastUpdated": "2026-01-08"
@@ -31,7 +44,10 @@
       "id": 4,
       "name": "Hylife",
       "description": "Medieval Low Fantasy Roleplay project focused on worldbuilding and long-term RP. Building foundation and seeking motivated collaborators.",
-      "types": ["MMORPG", "Roleplay"],
+      "types": [
+        "MMORPG",
+        "Roleplay"
+      ],
       "ip": "play.hylife.de",
       "region": "Germany",
       "lastUpdated": "2026-01-08"
@@ -40,7 +56,12 @@
       "id": 5,
       "name": "Mythlane",
       "description": "Cozy RPG server with quests, dungeons, and collaborative building. Bilingual community (EN/FR).",
-      "types": ["PvP", "PvE", "Modded", "MiniGames"],
+      "types": [
+        "PvP",
+        "PvE",
+        "Modded",
+        "MiniGames"
+      ],
       "ip": "play.mythlane.fr",
       "region": "France",
       "lastUpdated": "2026-01-08"
@@ -49,7 +70,12 @@
       "id": 6,
       "name": "Hyzen",
       "description": "Survival RPG server focused on stability, progression, and community. Regional realms (LATAM & Europe) with clear roadmap.",
-      "types": ["Adventure", "MMORPG", "PvE", "PvP"],
+      "types": [
+        "Adventure",
+        "MMORPG",
+        "PvE",
+        "PvP"
+      ],
       "ip": "play.hyzen.es",
       "region": "Spain",
       "lastUpdated": "2026-01-08"
@@ -58,7 +84,12 @@
       "id": 7,
       "name": "Hoodexia",
       "description": "Spanish Hytale server with Survival, PvE and PvP. Daily events, economy, clans, rewards, progression, 24/7 staff.",
-      "types": ["Creative", "Factions", "MiniGames", "PvE"],
+      "types": [
+        "Creative",
+        "Factions",
+        "MiniGames",
+        "PvE"
+      ],
       "ip": "play.hoodexia.es",
       "region": "Spain",
       "lastUpdated": "2026-01-08"
@@ -67,7 +98,9 @@
       "id": 8,
       "name": "Hyperion Online Anarchy",
       "description": "Day 1 Hytale anarchy server with no rules and no resets. True vanilla anarchy experience.",
-      "types": ["Anarchy"],
+      "types": [
+        "Anarchy"
+      ],
       "ip": "join.playhyp.com",
       "region": "United States",
       "lastUpdated": "2026-01-08"
@@ -76,7 +109,11 @@
       "id": 9,
       "name": "Hynetic",
       "description": "Modern Hytale minigame network featuring SkyWars, SurvivalGames, and BedWars. Clean gameplay and fair mechanics.",
-      "types": ["MiniGames", "PvE", "PvP"],
+      "types": [
+        "MiniGames",
+        "PvE",
+        "PvP"
+      ],
       "ip": "play.hynetic.de",
       "region": "Germany",
       "lastUpdated": "2026-01-08"
@@ -85,7 +122,12 @@
       "id": 10,
       "name": "Horizons SMP",
       "description": "Brand new Day-1 Hytale SMP (Jan 13th). Friendly, community-driven place to explore Hytale at launch.",
-      "types": ["Adventure", "Anarchy", "Hardcore", "MMORPG"],
+      "types": [
+        "Adventure",
+        "Anarchy",
+        "Hardcore",
+        "MMORPG"
+      ],
       "ip": "play.horizons-smp.net",
       "region": "United States",
       "lastUpdated": "2026-01-08"
@@ -94,7 +136,11 @@
       "id": 11,
       "name": "HytaleArgentum",
       "description": "Argentine server with 0 ping advantage for local players. Focus on community and accessibility.",
-      "types": ["Adventure", "PvE", "PvP"],
+      "types": [
+        "Adventure",
+        "PvE",
+        "PvP"
+      ],
       "ip": "play.hytaleargentum.ar",
       "region": "Argentina",
       "lastUpdated": "2026-01-08"
@@ -103,7 +149,9 @@
       "id": 12,
       "name": "Hylore",
       "description": "Upcoming anarchy server for players who crave freedom and chaos. True anarchy with no rules, resets, or hand-holding.",
-      "types": ["Anarchy"],
+      "types": [
+        "Anarchy"
+      ],
       "ip": "join.hylore.net",
       "region": "United States",
       "lastUpdated": "2026-01-08"
@@ -112,7 +160,11 @@
       "id": 13,
       "name": "VoxelMC.de",
       "description": "Classic minigames on Hytale: Bedwars, Skywars, KitPVP, BuildFFA, JumpOut and more with Hytale items.",
-      "types": ["MiniGames", "SMP", "PvP"],
+      "types": [
+        "MiniGames",
+        "SMP",
+        "PvP"
+      ],
       "ip": "play.voxelmc.de",
       "region": "Germany",
       "lastUpdated": "2026-01-08"
@@ -121,7 +173,12 @@
       "id": 14,
       "name": "Mythale",
       "description": "Spanish server focused on clans and community. Create a clan with friends and become a legend.",
-      "types": ["Vanilla", "Factions", "PvP", "PvE"],
+      "types": [
+        "Vanilla",
+        "Factions",
+        "PvP",
+        "PvE"
+      ],
       "ip": "play.mythale.es",
       "region": "Spain",
       "lastUpdated": "2026-01-08"
@@ -130,7 +187,12 @@
       "id": 15,
       "name": "Hytale Hispano",
       "description": "Largest Spanish Hytale community server with fully polished survival world. Active Discord community.",
-      "types": ["PvP", "PvE", "Factions", "Vanilla"],
+      "types": [
+        "PvP",
+        "PvE",
+        "Factions",
+        "Vanilla"
+      ],
       "ip": "play.hytalehispano.com",
       "region": "Spain",
       "lastUpdated": "2026-01-08"
@@ -139,7 +201,12 @@
       "id": 16,
       "name": "HytaleCorner",
       "description": "Multi-mode server featuring minigames, factions-style gameplay, PvP and connected hubs for all player types.",
-      "types": ["PvP", "Factions", "Modded", "Skyblock"],
+      "types": [
+        "PvP",
+        "Factions",
+        "Modded",
+        "Skyblock"
+      ],
       "ip": "play.hytale-corner.net",
       "region": "Germany",
       "lastUpdated": "2026-01-08"
@@ -148,7 +215,12 @@
       "id": 17,
       "name": "Arconi",
       "description": "Next generation of Hytale servers. Reborn in 2026. Launching January 13th.",
-      "types": ["Skyblock", "MiniGames", "MMORPG", "PvE"],
+      "types": [
+        "Skyblock",
+        "MiniGames",
+        "MMORPG",
+        "PvE"
+      ],
       "ip": "play.arconi.fr",
       "region": "France",
       "lastUpdated": "2026-01-08"
@@ -157,7 +229,12 @@
       "id": 18,
       "name": "2B2H",
       "description": "Hytale survival anarchy server with world that never resets. PvP enabled in free-for-all no rules environment.",
-      "types": ["Anarchy", "Adventure", "Factions", "Hardcore"],
+      "types": [
+        "Anarchy",
+        "Adventure",
+        "Factions",
+        "Hardcore"
+      ],
       "ip": "2b2h.org",
       "region": "United States",
       "lastUpdated": "2026-01-08"
@@ -166,7 +243,11 @@
       "id": 19,
       "name": "HytaleVanilla",
       "description": "Growing launch community for upcoming Hytale server. Join others interested in playing together on day one.",
-      "types": ["Vanilla", "Anarchy", "SMP"],
+      "types": [
+        "Vanilla",
+        "Anarchy",
+        "SMP"
+      ],
       "ip": "play.hytalev.net",
       "region": "United States",
       "lastUpdated": "2026-01-08"
@@ -175,10 +256,17 @@
       "id": 20,
       "name": "Hybase",
       "description": "German-speaking Hytale server with motivated players building something great. PvP, minigames, and community-driven development.",
-      "types": ["Factions", "MiniGames", "Modded", "PvP"],
+      "types": [
+        "Factions",
+        "MiniGames",
+        "Modded",
+        "PvP"
+      ],
       "ip": "play.hybase.de",
       "region": "Germany",
       "lastUpdated": "2026-01-08"
     }
-  ]
+  ],
+  "lastUpdated": "2026-01-08T18:55:11.194498",
+  "scrapeStatus": "completed"
 }
