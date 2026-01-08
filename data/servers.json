@@ -265,8 +265,286 @@
       "ip": "play.hybase.de",
       "region": "Germany",
       "lastUpdated": "2026-01-08"
+    },
+    {
+      "id": 21,
+      "name": "Hyfable",
+      "description": "Day 1 server network focused on building a long-term, stable home for Hytale players. Vanilla SMP, Skyblock, Mini-Games, and RPG progression.",
+      "types": [
+        "SMP",
+        "Skyblock",
+        "MiniGames",
+        "PvE"
+      ],
+      "ip": "play.hyfable.net",
+      "region": "United States",
+      "lastUpdated": "2026-01-08"
+    },
+    {
+      "id": 22,
+      "name": "Hystralia",
+      "description": "Chill oceanic server. No cash shop, no P2W, no quality of life shop. PvE, PvP, Survival, RPG, no griefing.",
+      "types": [
+        "RPG",
+        "PvP",
+        "PvE",
+        "Survival"
+      ],
+      "ip": "131.153.48.218",
+      "region": "United States",
+      "lastUpdated": "2026-01-08"
+    },
+    {
+      "id": 23,
+      "name": "Hy;Chaos",
+      "description": "No rules Hytale Anarchy Servers. Do as you will. Vanilla and modded experiences available.",
+      "types": [
+        "Anarchy",
+        "PvE",
+        "PvP"
+      ],
+      "ip": "play.hy-chaos.net",
+      "region": "United States",
+      "lastUpdated": "2026-01-08"
+    },
+    {
+      "id": 24,
+      "name": "HYTALE FACTIONS",
+      "description": "Faction-based server with pre-launch kit building. Join Discord to build connections early and prepare for release.",
+      "types": [
+        "Factions",
+        "Adventure",
+        "Survival"
+      ],
+      "ip": "play.hytale-factions.net",
+      "region": "United States",
+      "lastUpdated": "2026-01-08"
+    },
+    {
+      "id": 25,
+      "name": "HytaleSkull",
+      "description": "PvP-focused server built by experienced Minecraft developers. Competitive arenas, ranking system, and seasonal events.",
+      "types": [
+        "PvP",
+        "MiniGames",
+        "Adventure"
+      ],
+      "ip": "play.hytaleskull.net",
+      "region": "Germany",
+      "lastUpdated": "2026-01-08"
+    },
+    {
+      "id": 26,
+      "name": "Peaceful Vanilla Club",
+      "description": "Survival vanilla server built for calm long-term PvE. No grief, no stealing, no base destruction. Vanilla vibes.",
+      "types": [
+        "Vanilla",
+        "PvE",
+        "SMP"
+      ],
+      "ip": "hytale.peacefulvanilla.club",
+      "region": "United States",
+      "lastUpdated": "2026-01-08"
+    },
+    {
+      "id": 27,
+      "name": "PrimeTale",
+      "description": "Explore Hytale the way it was meant to be played. Focus on core gameplay: exploration, freedom, and authentic gameplay.",
+      "types": [
+        "SMP",
+        "PvE",
+        "Adventure"
+      ],
+      "ip": "primetale.net",
+      "region": "United States",
+      "lastUpdated": "2026-01-08"
+    },
+    {
+      "id": 28,
+      "name": "Hyternity",
+      "description": "International MMO server with multiple worlds, hub system, and minigames. Global audience with scalable infrastructure.",
+      "types": [
+        "MMORPG",
+        "MiniGames",
+        "PvE",
+        "Adventure"
+      ],
+      "ip": "play.hyternity.net",
+      "region": "United States",
+      "lastUpdated": "2026-01-08"
+    },
+    {
+      "id": 29,
+      "name": "Rohak",
+      "description": "Community-focused server with custom maps, custom minigames, and stable infrastructure. Creator-friendly environment.",
+      "types": [
+        "MiniGames",
+        "PvE",
+        "Survival"
+      ],
+      "ip": "play.rohak.net",
+      "region": "United States",
+      "lastUpdated": "2026-01-08"
+    },
+    {
+      "id": 30,
+      "name": "Havenstale",
+      "description": "PvP-focused server with competitive arenas and ranking system. Prove your skills in 1v1 and team battles.",
+      "types": [
+        "PvP",
+        "MiniGames"
+      ],
+      "ip": "play.havenstale.com",
+      "region": "United States",
+      "lastUpdated": "2026-01-08"
+    },
+    {
+      "id": 31,
+      "name": "Raidex",
+      "description": "Inspired by Escape From Tarkov. High risk PvPvE raids, economy, and community trading on Hytale.",
+      "types": [
+        "PvP",
+        "MiniGames",
+        "Survival",
+        "Hardcore"
+      ],
+      "ip": "raidex.fun",
+      "region": "United States",
+      "lastUpdated": "2026-01-08"
+    },
+    {
+      "id": 32,
+      "name": "Dragonstone",
+      "description": "Day-one Exploration/Adventure server focused on core experience. No pay-to-win mechanics, community-driven.",
+      "types": [
+        "Adventure",
+        "Exploration",
+        "SMP"
+      ],
+      "ip": "play.dragonstone.net",
+      "region": "United States",
+      "lastUpdated": "2026-01-08"
+    },
+    {
+      "id": 33,
+      "name": "Aestheria",
+      "description": "French Hytale server with balanced gameplay and focus on community engagement. PvE, Survival, and PvP modes.",
+      "types": [
+        "PvE",
+        "Survival",
+        "PvP"
+      ],
+      "ip": "play.aestheria.fr",
+      "region": "France",
+      "lastUpdated": "2026-01-08"
+    },
+    {
+      "id": 34,
+      "name": "Hytlands",
+      "description": "Community Hytale server combining exploration, building, and social gameplay. Day-1 ready infrastructure.",
+      "types": [
+        "PvE",
+        "Survival",
+        "PvP",
+        "Adventure"
+      ],
+      "ip": "ht.hytlands.com",
+      "region": "United States",
+      "lastUpdated": "2026-01-08"
+    },
+    {
+      "id": 35,
+      "name": "MelonTale",
+      "description": "Day-1 launch server with minigames, survival, and creative modes. Casual-friendly community.",
+      "types": [
+        "MiniGames",
+        "Survival",
+        "Creative"
+      ],
+      "ip": "melontale.com",
+      "region": "United States",
+      "lastUpdated": "2026-01-08"
+    },
+    {
+      "id": 36,
+      "name": "Hytale South Africa",
+      "description": "African community server. Connecting players from South Africa and across the continent.",
+      "types": [
+        "Adventure",
+        "Economy",
+        "Factions"
+      ],
+      "ip": "play.hytale.co.za",
+      "region": "United States",
+      "lastUpdated": "2026-01-08"
+    },
+    {
+      "id": 37,
+      "name": "HyTeller",
+      "description": "CityBuild server. Claim plots, build your dream city, and create your own adventure with community.",
+      "types": [
+        "Creative",
+        "SMP",
+        "Adventure"
+      ],
+      "ip": "play.hyteller.net",
+      "region": "United States",
+      "lastUpdated": "2026-01-08"
+    },
+    {
+      "id": 38,
+      "name": "Cacti Realm",
+      "description": "Launching January 13th. 25+ planned gamemodes including Survival, Creative, Prison, Adventure, and PvP.",
+      "types": [
+        "Survival",
+        "Creative",
+        "PvP",
+        "Adventure"
+      ],
+      "ip": "play.cacti-realm.net",
+      "region": "United States",
+      "lastUpdated": "2026-01-08"
+    },
+    {
+      "id": 39,
+      "name": "Bat Cove",
+      "description": "Survival and adventure server from experienced creators. Community-driven development and progression.",
+      "types": [
+        "Survival",
+        "Adventure",
+        "PvE"
+      ],
+      "ip": "play.batcove.net",
+      "region": "United States",
+      "lastUpdated": "2026-01-08"
+    },
+    {
+      "id": 40,
+      "name": "Guilds",
+      "description": "Ultimate MMO server with guilds, player-driven economy, housing, custom classes, and PvP/PvE content.",
+      "types": [
+        "MMORPG",
+        "PvP",
+        "PvE",
+        "Roleplay"
+      ],
+      "ip": "play.guilds-hytale.net",
+      "region": "United States",
+      "lastUpdated": "2026-01-08"
     }
   ],
-  "lastUpdated": "2026-01-08T18:55:11.194498",
-  "scrapeStatus": "completed"
+  "lastUpdated": "2026-01-08T18:56:30.000000",
+  "scrapeStatus": "completed",
+  "sources": [
+    "hytale-servers.com",
+    "hytaletop100.com",
+    "hytalelobby.com",
+    "hytalemenu.com",
+    "hytale-universe.com",
+    "hytale-serverlist.com",
+    "hytaleserver.com",
+    "top-games.net",
+    "reddit.com/r/HytaleInfo",
+    "reddit.com/r/hytale"
+  ]
 }
