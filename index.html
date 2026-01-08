@@ -122,11 +122,20 @@
             background: rgba(99, 102, 241, 0.1);
         }
 
-        /* Dropdown styling for better contrast */
+        /* Dropdown button styling - matches search input */
         select.filter-input {
-            background-color: #000000;
+            background-color: var(--bg-card);
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%23f1f5f9' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='6 9 12 15 18 9'%3E%3C/polyline%3E%3C/svg%3E");
+            background-repeat: no-repeat;
+            background-position: right 0.75rem center;
+            padding-right: 2.5rem;
+            appearance: none;
+            -webkit-appearance: none;
+            -moz-appearance: none;
+            cursor: pointer;
         }
 
+        /* Dropdown list styling - black background */
         select.filter-input option {
             background-color: #000000;
             color: var(--text-light);
@@ -135,6 +144,12 @@
 
         select.filter-input option:hover {
             background-color: var(--primary);
+            color: white;
+        }
+
+        select.filter-input option:checked {
+            background: linear-gradient(var(--primary), var(--primary));
+            background-color: var(--primary) !important;
             color: white;
         }
 
