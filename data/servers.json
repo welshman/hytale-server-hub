@@ -533,18 +533,6 @@
       "lastUpdated": "2026-01-08"
     }
   ],
-  "lastUpdated": "2026-01-08T18:56:30.000000",
-  "scrapeStatus": "completed",
-  "sources": [
-    "hytale-servers.com",
-    "hytaletop100.com",
-    "hytalelobby.com",
-    "hytalemenu.com",
-    "hytale-universe.com",
-    "hytale-serverlist.com",
-    "hytaleserver.com",
-    "top-games.net",
-    "reddit.com/r/HytaleInfo",
-    "reddit.com/r/hytale"
-  ]
+  "lastUpdated": "2026-01-08T19:02:26.263775",
+  "scrapeStatus": "completed"
 }
