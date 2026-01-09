@@ -24,7 +24,10 @@ SERVER_LISTS = [
     "hytaleserver.com",
     "top-games.net",
     "reddit.com/r/HytaleInfo",
-    "reddit.com/r/hytale"
+    "reddit.com/r/hytale",
+    "https://hytale.game/en/servers/",
+    "https://hytaleserverlist.me/",
+    "https://hytaleonlineservers.com/"
 ]
 
 OUTPUT_FILE = 'data/servers.json'
